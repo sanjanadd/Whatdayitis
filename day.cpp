@@ -51,7 +51,7 @@ int main() {
             cout << "TGIF!" << endl;
             break;
         case 4: //weekend
-            cout << "It's a weekend!" << endl;
+            cout << "It's the weekend!" << endl;
             break;
         default: //invalid input
             cout << "Invalid day." << endl;
